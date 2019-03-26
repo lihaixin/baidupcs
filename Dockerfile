@@ -1,0 +1,1 @@
+FROM auska/docker-baidupcs
